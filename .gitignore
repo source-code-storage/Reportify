@@ -103,5 +103,10 @@ uploads/
 # Demo video (keep in repo)
 !assets/kiroDemo.mp4
 
-# Remotion demo output (ignore rendered videos)
-remotion-demo/out/
+# Remotion demo (ignore entire folder)
+remotion-demo/
+
+# Remotion agent skills (ignore)
+.agent/skills/remotion-best-practices/
+.agents/skills/remotion-best-practices/
+.kiro/skills/remotion-best-practices/
