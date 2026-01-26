@@ -1,0 +1,47 @@
+# Requirements for AI Content Generation
+# Includes all dependencies needed for embeddings, vector search, and LLM integration
+
+# Core Framework
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+alembic
+psycopg[binary]  # PostgreSQL driver for SQLAlchemy 2.0+
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt>=4.0.0,<5.0.0  # Pin bcrypt version for compatibility
+python-multipart
+
+# Task Queue
+celery
+redis
+
+# File Storage
+boto3
+
+# AI/ML Dependencies
+sentence-transformers  # For generating embeddings
+qdrant-client  # Vector database client
+openai  # OpenAI API for GPT-4
+langchain  # LLM orchestration (optional but helpful)
+langchain-openai  # OpenAI integration for LangChain
+tiktoken  # Token counting for OpenAI
+
+# Text Processing
+pypdf  # PDF text extraction (lightweight alternative to PyMuPDF)
+python-magic  # File type detection
+
+# Utilities
+python-dotenv
+httpx
+requests
+
+# Testing
+pytest
+pytest-asyncio
