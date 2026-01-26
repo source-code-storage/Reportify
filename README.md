@@ -386,11 +386,19 @@ scripts\verify_deployment.bat
 
 ## 🎬 Demo Video
 
-**[🎥 Watch Demo Video](./assets/kiroDemo.mp4)** (Click to download and watch)
+### Watch the Full Demo
+
+https://github.com/MuLIAICHI/Reportify/assets/kiroDemo.mp4
+
+**[📥 Download Demo Video](./assets/kiroDemo.mp4)** (8.23 MB)
 
 *2-minute walkthrough showing all features in action*
 
-> **Note:** The demo video is included in this repository at `assets/kiroDemo.mp4`. You can also [watch it on YouTube](YOUR_YOUTUBE_VIDEO_URL) if you prefer.
+> **Note:** Click the video above to watch it directly on GitHub, or download it to watch locally. The demo showcases:
+> - Smart document processing with PDF parsing
+> - Semantic search using AI embeddings
+> - GPT-4 content generation
+> - Professional PDF/DOCX export
 
 ---
 
@@ -484,7 +492,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Link:** https://github.com/MuLIAICHI/reportify
 
-**Demo Video:** [Watch in Repository](./assets/kiroDemo.mp4) | [Watch on YouTube](YOUR_YOUTUBE_VIDEO_URL)
+**Demo Video:** [Watch on GitHub](https://github.com/MuLIAICHI/Reportify/blob/main/assets/kiroDemo.mp4) | [Download](./assets/kiroDemo.mp4)
 
 ---
 
