@@ -386,19 +386,21 @@ scripts\verify_deployment.bat
 
 ## 🎬 Demo Video
 
-### Watch the Full Demo
+### 📺 Watch the Full Walkthrough
 
-https://github.com/MuLIAICHI/Reportify/assets/kiroDemo.mp4
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-Video-red?style=for-the-badge&logo=youtube)](./assets/kiroDemo.mp4)
 
-**[📥 Download Demo Video](./assets/kiroDemo.mp4)** (8.23 MB)
+**[📥 Download Video](./assets/kiroDemo.mp4)** (8.23 MB) | **[🎥 View in Browser](https://github.com/MuLIAICHI/Reportify/blob/main/assets/kiroDemo.mp4)**
 
-*2-minute walkthrough showing all features in action*
+*2-minute walkthrough demonstrating all features*
 
-> **Note:** Click the video above to watch it directly on GitHub, or download it to watch locally. The demo showcases:
-> - Smart document processing with PDF parsing
-> - Semantic search using AI embeddings
-> - GPT-4 content generation
-> - Professional PDF/DOCX export
+### What's in the Demo:
+- ✅ Smart document processing with PDF parsing
+- ✅ Semantic search using AI embeddings  
+- ✅ GPT-4 content generation in action
+- ✅ Professional PDF/DOCX export
+
+> **💡 Tip:** Click "View in Browser" above to watch the video directly on GitHub with the built-in player!
 
 ---
 
