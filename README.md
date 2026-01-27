@@ -402,27 +402,6 @@ scripts\verify_deployment.bat
 
 > **💡 Tip:** Click "View in Browser" above to watch the video directly on GitHub with the built-in player!
 
----
-
-## 📸 Screenshots
-
-### Landing Page
-![Landing Page](docs/screenshots/landing.png)
-*Modern landing page with clear value proposition*
-
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-*Clean dashboard showing all your reports with progress tracking*
-
-### Report Editor
-![Report Editor](docs/screenshots/editor.png)
-*Rich text editor with AI-powered content generation*
-
-### Semantic Search
-![Search](docs/screenshots/search.png)
-*Intelligent search that understands context and meaning*
-
----
 
 ## 🏆 Hackathon Submission
 
